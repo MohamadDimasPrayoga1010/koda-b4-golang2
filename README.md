@@ -1,3 +1,2 @@
 # PROGRAM UNTUK MENYISIPKAN ANGKA
-membuat program untuk menyisipkan angka diantara data didalam slice dengan menggunakan append dan menjalankan dengna menggunakan loop
-
+membuat program untuk menyisipkan angka diantara data didalam slice dengan menggunakan append dan menjalankan dengan menggunakan loop, membuat kondisi untuk posisi angka 66 kemana pun angka 66 berpindah maka selalu didampingi dengan angka 88
