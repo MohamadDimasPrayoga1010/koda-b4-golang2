@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	scores := []int{50, 75, 60, 20, 32, 90}
+	scores := []int{50, 75, 66, 20, 32, 90}
 
 	inputScore := []int{}
 	// inputScore = append(inputScore, scores[:2]...)
